@@ -11,20 +11,21 @@
     left: 17%;
 }
 
-.containerBubble2{
+.containerBubble2 {
     position: absolute;
     bottom: 10%;
     right: 2%;
 }
 
-.bubble {
+.bulle {
     position: absolute;
     width: 200px;
     height: 200px;
     border-radius: 50%;
-    box-shadow: inset 0 0 25px rgba (255, 255, 255, 0.25);
+    box-shadow: inset 0 0 25px rgba(255, 255, 255, 0.25);
     animation: animate_4010 11s ease-in-out infinite;
 }
+
 
 .bubble:nth-child(2) {
     position: relative;
