@@ -1475,3 +1475,7 @@ ul.SubItemContainer-navBar {
 }
 
 background: blue;
+.bulle {
+    background: rgba(0, 150, 255, 0.4);
+}
+
